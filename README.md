@@ -6,4 +6,5 @@ Repositorio para publicar el proyecto de la asignatura Dirección y Gestión de 
 Enlace a los correspondientes proyectos:
 
 https://github.com/almudluqgom/AppAlumno
+
 https://github.com/almudluqgom/AppProfesor
